@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diluka Theekshana</h1>
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
-<h3 align="center">A Passionate Frontend Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akithn&label=Profile%20views&color=0e75b6&style=flat" alt="akithn" /> </p>
+
 
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dilukatheekshana&label=Profile%20views&color=0e75b6&style=flat" alt="akithn" /> </p>
 
 - 🌱 I’m currently learning **C, C++, and Java**
 
